@@ -80,7 +80,7 @@ Here are some of my top projects that showcase my skills in full-stack developme
 ![](https://github-profile-trophy.vercel.app/?username=Karan-8418-Dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Karan-8418-Dev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Karan-8418-Dev&theme=dark&hide_border=true)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karan.bainade.77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vectorking007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-bainade) 
