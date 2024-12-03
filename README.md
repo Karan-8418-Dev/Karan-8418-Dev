@@ -23,12 +23,20 @@ Advanced React.js, Node.js, and Data Visualization techniques.
 ⚡ Fun fact:  
 I enjoy building apps that solve real-world problems and bring people closer to technology!
 
+## 📌 Featured Repositories:
+
+Here are some of my top projects that showcase my skills in full-stack development, database management, and data analysis:
+
+- [**Local Service Directory**](https://github.com/Karan-8418-Dev/Local-Service-Directory):  
+  A full-stack platform for connecting users and service providers, with features like user authentication, service booking, payment integrations, and complaint management.
+
+- [**Zoo Management System**](https://github.com/Karan-8418-Dev/Zoo-Management-System):  
+  A comprehensive zoo management application, which includes animal records, staff management, and visitor tracking.
+
+- [**EDA on IMDb Dataset**](https://github.com/Karan-8418-Dev/EDA-IMDb-Dataset):  
+  An exploratory data analysis project on IMDb data, using Python and various visualization techniques to derive insights and trends.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karan.bainade.77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vectorking007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-bainade) 
-
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 
 ### **Programming Languages**
@@ -73,6 +81,12 @@ I enjoy building apps that solve real-world problems and bring people closer to 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Karan-8418-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karan.bainade.77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vectorking007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-bainade) 
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karan-8418-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
