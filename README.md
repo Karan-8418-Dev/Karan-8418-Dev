@@ -3,9 +3,7 @@
 - **[Zoo Management System](https://github.com/Karan-8418-Dev/Zoo-Management-System):**  
   A comprehensive application to manage zoo operations, including animal records, staff management, and visitor tracking.  
 - **[Exploratory Data Analysis on IMDb Dataset](https://github.com/Karan-8418-Dev/EDA-IMDb-Dataset):**  
-  Insights and visualizations from IMDb data using Python, Pandas, and Matplotlib.  
-<br><br>
-👯 I’m looking to collaborate on  <br>Innovative full-stack web applications or data analysis projects.  <br><br>🤝 I’m looking for help with  <br>Enhancing real-time notifications and payment integrations for my [Local Service Directory](#).  <br><br>🌱 I’m currently learning  <br>Advanced React.js, Node.js, and Data Visualization techniques.  <br><br>⚡ Fun fact  <br>I enjoy building apps that solve real-world problems and bring people closer to technology!  
+  Insights and visualizations from IMDb data using Python, Pandas, and Matplotlib.  <br><br>👯 I’m looking to collaborate on  <br>Innovative full-stack web applications or data analysis projects.  <br><br>🤝 I’m looking for help with  <br>Enhancing real-time notifications and payment integrations for my [Local Service Directory](#).  <br><br>🌱 I’m currently learning  <br>Advanced React.js, Node.js, and Data Visualization techniques.  <br><br>⚡ Fun fact  <br>I enjoy building apps that solve real-world problems and bring people closer to technology!  
 
 
 ## 🌐 Socials:
